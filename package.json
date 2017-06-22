@@ -1,0 +1,17 @@
+{
+  "name": "ktmpl",
+  "version": "0.0.1",
+  "description": "A command line tool for parsing mustache templates and replacing variables with environment variables",
+  "author": "Jaie Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaiew/ktmpl.git"
+  },
+  "bin": {
+    "ktmpl": "./ktmpl.js"
+  }
+}
